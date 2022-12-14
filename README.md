@@ -1,3 +1,5 @@
+> _[Link to "Users list" GitHub Pages](https://andrejb596.github.io/redux-practice/)_
+
 # Practical project on React Redux
 
 This is a mini project, at the beginning I make a component, when the component is loaded, comments are loaded from the external `API`. When I receive comments from an external `API`
